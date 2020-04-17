@@ -48,27 +48,28 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(0.01)
 
-#Dev:hamza
+#Dev:Hamza
 ##### LOGO #####
 logo ="""
  \033[1;96m ------------------------
- \033[1;32m < OFFICIAL CODER HAMZA >
+ \033[1;32m < OFFICIAL CODER MR.ZeNiX >
  \033[1;96m ------------------------
 \033[1;96m
   =====================================================
 |                  ASSALAMU ALAIKUM                     |
-|              Coded By : MUHAMMAD HAMZA                |
-|              Facebook : Muhammad Hamza                |
+|              Coded By : MR.ZeNiX                      |
+|              Facebook : ZENIX.Offilcel                |
 |      Editing My Script Will Not Make You  a Coder     | 
-|         HAMZA THE OFFICIAL PROGRAMMER [ H.O.P]        |
-|               Whatsapp : +92309-7992202               |
+|         MR.ZeNiX THE OFFICIAL PROGRAMMER [ H.O.P]     |
+|               Whatsapp : +92302-5035903               |
   ===================================================== 
- \033[1;96m _    _       __  __
- \033[1;96m| |  | |     |  \/  |
- \033[1;96m| |__| | __ _| \  / |______ _
- \033[1;96m|  __  |/ _` | |\/| |_  / _` |
- \033[1;96m| |  | | (_| | |  | |/ / (_| |
-\033[1;96m |_|  |_|\__,_|_|  |_/___\__,_| """
+  
+\033[1;96m╭━━━━┳━━━┳━╮╱╭┳━━┳━╮╭━╮
+\033[1;96m╰━━╮━┃╭━━┫┃╰╮┃┣┫┣┻╮╰╯╭╯
+\033[1;96m╱╱╭╯╭┫╰━━┫╭╮╰╯┃┃┃╱╰╮╭╯
+\033[1;96m╱╭╯╭╯┃╭━━┫┃╰╮┃┃┃┃╱╭╯╰╮
+\033[1;96m╭╯━╰━┫╰━━┫┃╱┃┃┣┫┣┳╯╭╮╰╮
+\033[1;96m╰━━━━┻━━━┻╯╱╰━┻━━┻━╯╰━╯""
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -88,38 +89,37 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print """
  \033[1;96m ------------------------
- \033[1;32m < OFFICIAL CODER HAMZA >
+ \033[1;32m < OFFICIAL CODER MR.ZeNiX >
  \033[1;96m ------------------------
 \033[1;96m
   =====================================================
 |                  ASSALAMU ALAIKUM                     |
-|              Coded By : MUHAMMAD HAMZA                |
-|              Facebook : Muhammad Hamza                |
+|              Coded By : MR.ZeNiX                      |
+|              Facebook : ZENIX.Offilcel                |
 |      Editing My Script Will Not Make You  a Coder     | 
-|         HAMZA THE OFFICIAL PROGRAMMER [ H.O.P]        |
-|               Whatsapp : +92309-7992202               |
+|        MR.ZeNiX THE OFFICIAL PROGRAMMER [ H.O.P]      |
+|               Whatsapp : +92302-5035903               |
   =====================================================
-\033[1;97m
-------------------------------------+-----------------
- \033[1;32m _    _       __  __
- \033[1;32m| |  | |     |  \/  |
- \033[1;32m| |__| | __ _| \  / |______ _
- \033[1;32m|  __  |/ _` | |\/| |_  / _` |
- \033[1;32m| |  | | (_| | |  | |/ / (_| |
-\033[1;32m |_|  |_|\__,_|_|  |_/___\__,_| 
+
+\033[1;32m ███████╗███████╗███╗░░██╗██╗██╗░░██╗
+\033[1;32m╚════██║██╔════╝████╗░██║██║╚██╗██╔╝
+\033[1;32m░░███╔═╝█████╗░░██╔██╗██║██║░╚███╔╝░
+\033[1;32m██╔══╝░░██╔══╝░░██║╚████║██║░██╔██╗░
+\033[1;32m███████╗███████╗██║░╚███║██║██╔╝╚██╗
+\033[1;32m╚══════╝╚══════╝╚═╝░░╚══╝╚═╝╚═╝░░╚═╝
 \033[1;97m------------------------------------+-----------------"""
 
 jalan("\033[1;96m---> \033[1;32mWelcome To My Cloning Tools")
 jalan("\033[1;96m---> \033[1;32mIf You Have Any Problem You Can Contact On Whatsapp")
-jalan("\033[1;96m---> \033[1;32mWhatsapp No : 0309-7992202")
+jalan("\033[1;96m---> \033[1;32mWhatsapp No : 0302-5035903")
 jalan("\033[1;96m---> \033[1;32mPakistani Hacker And Codder")
 jalan("\033[1;96m---> \033[1;32mPROUD TO BE A MUSLIM PROUD TO BE PAKISTANI")
 
-jalan('\033[1;96m---> \033[1;32mHAMZA THE OFFICIAL PROGRAMMER \033[1;31m[ H.O.P ]')
+jalan('\033[1;96m---> \033[1;32mMr.ZeNiX THE OFFICIAL PROGRAMMER \033[1;31m[ H.O.P ]')
 print "\033[1;96m----->\033[1;32mTOOL LOGIN \033[1;96m<-----"
 
-CorrectUsername = "hamza"
-CorrectPassword = "1626"
+CorrectUsername = "MR"
+CorrectPassword = "ZENIX"
 
 loop = 'true'
 while (loop == 'true'):
@@ -127,7 +127,7 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;34mTool Password \x1b[1;31m---> \x1b[1;32m")
         if (password == CorrectPassword):
-            print "\033[1;32mACCESS GRANTED AS " + username #Dev:Muhammad_Hamza
+            print "\033[1;32mACCESS GRANTED AS " + username #Dev:MUHAMMAD HAMZA
 	    time.sleep(2)
             loop = 'false'
         else:
@@ -231,7 +231,7 @@ def menu():
 	print "  \033[1;32m꧁\033[1;96mLogged in User Info\033[1;32m꧂"
 	print "	   \033[1;97m Name\033[1;97m:\033[1;94m"+nama+"\033[1;97m               "
 	print "	   \033[1;97m ID\033[1;97m:\033[1;94m"+id+"\x1b[1;97m              "
-	print "\033[1;32m<-----\033[1;93mHAMZA THE OFFICIAL PROGRAMMER㋡ H•O•P㋡\033[1;32m----->"
+	print "\033[1;32m<-----\033[1;93mMR.ZeNiX THE OFFICIAL PROGRAMMER㋡ H•O•P㋡\033[1;32m----->"
 	print "\033[1;97m-------------------------------"
 	print "\033[1;32m➥\033[1;32m1.\x1b[1;96mStart Cloning•••"
 	print "\033[1;97m➥\033[1;97m0.\033[1;97mlogout            "
@@ -279,7 +279,7 @@ def pilih_super():
 	elif peak =="1":
 		os.system('clear')
 		print logo
-		print "\033[1;32m<-----\033[1;93mHAMZA THE OFFICIAL PROGRAMMER㋡ H•O•P㋡\033[1;32m----->"
+		print "\033[1;32m<-----\033[1;93mMR.ZeNiX THE OFFICIAL PROGRAMMER㋡ H•O•P㋡\033[1;32m----->"
 		jalan('\033[1;94mGetting IDs \033[1;94m•••••')
 		r = requests.get("https://graph.facebook.com/me/friends?access_token="+toket)
 		z = json.loads(r.text)
@@ -289,7 +289,7 @@ def pilih_super():
 		os.system('clear')
 		print logo
 		idt = raw_input("\033[1;32m➥\033[1;94mEnter ID\033[1;33m: \033[1;97m")
-		print "\033[1;32m<-----\033[1;93mHAMZA THE OFFICIAL PROGRAMMER㋡ H•O•P㋡\033[1;32m----->"
+		print "\033[1;32m<-----\033[1;93mMR.ZENIX THE OFFICIAL PROGRAMMER㋡ H•O•P㋡\033[1;32m----->"
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
@@ -315,9 +315,9 @@ def pilih_super():
 	for o in titik:
 		print("\r\033[1;94mCloning\033[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;32m<-------\x1b[1;93m•••Stop Process Press CTRL+Z•••\033[1;32m------->"
-	print "\033[1;32m<-----\033[1;93mHAMZA THE OFFICIAL PROGRAMMER㋡ H•O•P㋡\033[1;32m----->"
+	print "\033[1;32m<-----\033[1;93mMR.ZENIX THE OFFICIAL PROGRAMMER㋡ H•O•P㋡\033[1;32m----->"
 	jalan(' \033[1;97m•••••••••••\033[1;93mCloning Start..\033[1;97m•••••••••• ')
-	jalan(' \033[1;32m<-----\033[1;93mHAMZA THE OFFICIAL PROGRAMMER㋡ H•O•P㋡\033[1;32m----->')
+	jalan(' \033[1;32m<-----\033[1;93mMR.ZeNiX THE OFFICIAL PROGRAMMER㋡ H•O•P㋡\033[1;32m----->')
 	jalan(' \033[1;97m-----------------------------------')
 			
 	def main(arg):
@@ -436,8 +436,8 @@ def pilih_super():
 		
 	p = ThreadPool(50)
 	p.map(main, id)
-	print "\033[1;32m<-----\033[1;93mHAMZA THE OFFICIAL PROGRAMMER㋡ H•O•P㋡\033[1;32m----->"
-	print "  \033[1;93m<-----Developed By Muhammad Hamza----->" #Dev:hamza
+	print "\033[1;32m<-----\033[1;93mMR.ZeNiX THE OFFICIAL PROGRAMMER㋡ H•O•P㋡\033[1;32m----->"
+	print "  \033[1;93m<-----Developed By MR.ZeNiX----->" #Dev:hamza
 	print '\033[1;96m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 vip.py)↩\033[1;97m....'
 	print"\033[1;92mTotal OK/\x1b[1;93mCP \033[1;93m: \033[1;97m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
 	print """
@@ -475,7 +475,7 @@ ______________¶¶¶¶¶¶¶¶¶¶¶¶
       
                        Checkpoint ID Open After 7 Days
 
- Having Problem Whatsapp Me :+923097992202"""
+ Having Problem Whatsapp Me :+923025035903"""
 	
 	raw_input("\n\033[1;93m[\033[1;96mBack\033[1;93m]")
 	menu()
